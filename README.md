@@ -16,15 +16,14 @@ Requirements: Ubuntu 18, php 7, Apache, OpenJDK 8
 <p>2. Go to the following IP address in your browser
 <br>http://<i><b>camera_ip</i></b>/System/configurationFile?auth=YWRtaW46MTEK
 <br>Where, camera_ip - IP address of the camera. You can find out IP using the <a href="https://www.hikvision.com/en/support/tools/destop-tools/sadp-for-windows/#download-agreement" target="_blank" ><b>SADP program</b></a>
-<p>3.Using the form below, submit the file (configurationFile) that you downloaded earlier, then click for <b>Decrypt</b> and <b>Download File</b>
-
-<p><iframe src="/hik_reset.php" name="mainframe" width="100%" height="400px" frameborder="0" scrolling="auto"> </iframe>
 
 
 
-<p>4. The file that you downloaded from the server (the file will have the name 6bf2bc3e2e31b280d83051dfa7444e22plaintextOutput, the name changes every time) should be uploaded to the site with the online HEX editor
+<p>3. The file that you downloaded from the server (the file will have the name 6bf2bc3e2e31b280d83051dfa7444e22plaintextOutput, the name changes every time) should be uploaded to the site with the online HEX editor
 <br><a href="https://hexed.it/" target="_blank" ><b>https://hexed.it</b></a>
-<p>5.Use the camera web interface and Internet Explorer to enter the camera
+<p>4.Use the camera web interface and Internet Explorer to enter the camera
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/4PJXuYcMjMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <b><center>An example of the script
 http://hik.cctv-world.space/en.html
