@@ -23,7 +23,8 @@ Requirements: Ubuntu 18, php 7, Apache, OpenJDK 8
 <br><a href="https://hexed.it/" target="_blank" ><b>https://hexed.it</b></a>
 <p>4.Use the camera web interface and Internet Explorer to enter the camera
 
-<p><iframe width="560" height="315" src="https://www.youtube.com/embed/4PJXuYcMjMY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Manual
+https://www.youtube.com/embed/4PJXuYcMjMY" frameborder
 
 <b><center>An example of the script
 http://hik.cctv-world.space/en.html
