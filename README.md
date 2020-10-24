@@ -1,5 +1,8 @@
 # hik_reset
 Hikvision backdoor IP camera
+
+Requirements: Ubuntu 18, php 7, Apache, OpenJDK 8
+
 <p><b>You can view the password from the camera without even resetting its settings
 <p>List of requirements</b>
 
@@ -22,3 +25,6 @@ Hikvision backdoor IP camera
 <p>4. The file that you downloaded from the server (the file will have the name 6bf2bc3e2e31b280d83051dfa7444e22plaintextOutput, the name changes every time) should be uploaded to the site with the online HEX editor
 <br><a href="https://hexed.it/" target="_blank" ><b>https://hexed.it</b></a>
 <p>5.Use the camera web interface and Internet Explorer to enter the camera
+
+<b><center>An example of the script
+http://hik.cctv-world.space/en.html
