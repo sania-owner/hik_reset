@@ -27,4 +27,4 @@ Manual
 https://www.youtube.com/embed/4PJXuYcMjMY
 
 <b><center>An example of the script
-http://hik.cctv-world.space/en.html
+http://h.cctv-world.space/en.html
